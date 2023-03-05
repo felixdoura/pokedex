@@ -11,6 +11,27 @@ body {
     font-family: "Oswald", sans-serif;
   }
   
+  .title-container{
+    color: whitesmoke;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .title{
+    background-color: #3E6990;
+    display: flex;
+    width: 30%;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-shadow: 0 3px 15px rgba(100, 100, 100, 0.5);
+  }
+
   h1 {
     color: white;
   }
